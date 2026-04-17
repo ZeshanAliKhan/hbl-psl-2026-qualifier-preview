@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeshanalikhan.github.io/hbl-psl-2026-qualifier-preview/sitemap.xml
